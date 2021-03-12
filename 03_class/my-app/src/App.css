@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #ffadad;
+}
+/* . is for class name */
+
+div { 
+  background-color: #ffcdb2;
+  padding: 5px;
+  text-align: center;
+}
+
+.result {
+  color: red;
+}
